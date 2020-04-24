@@ -1,4 +1,22 @@
-# vue-typescript-crud
+# Vue Typescript CRUD App with Vue Router & Axios
+
+For more detail, please visit:
+> [Vue Typescript CRUD Application to consume Web API example](https://bezkoder.com/vue-typescript-crud/)
+
+Fullstack with Node.js Express:
+> [Vue.js + Node.js Express + MySQL](https://bezkoder.com/vue-js-node-js-express-mysql-crud-example/)
+
+> [Vue.js + Node.js Express + PostgreSQL](https://bezkoder.com/vue-node-express-postgresql/)
+
+> [Vue.js + Node.js Express + MongoDB](https://bezkoder.com/vue-node-express-mongodb-mevn-crud/)
+
+Fullstack with Spring Boot:
+> [Vue.js + Spring Boot + MySQL/PostgreSQL](https://bezkoder.com/spring-boot-vue-js-crud-example/)
+
+> [Vue.js + Spring Boot + MongoDB](https://bezkoder.com/spring-boot-vue-mongodb/)
+
+Fullstack with Django:
+> [Vue.js + Django](https://bezkoder.com/django-vue-js-rest-framework/)
 
 ## Project setup
 ```
